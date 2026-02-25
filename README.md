@@ -6,12 +6,6 @@
 ### Hi there 👋 I'm [Collin Hay](https://charlemagne44.github.io/)
 > Software Engineer at [Stratus Technologies](https://www.stratus.com/)
 
-<div>
- <p>
-I am back end software engineer working on HPC / edge servers. My work on HPC has taken me from Golang, to python, all the way down to C. In my spare time I also tinker with some front end with a desire to make some of my work seem more presentable 😂
-</p>
-</div>
-
 ### Programming Languages 🌐
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Bootstrap" width="24">](https://devdocs.io/c/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C++" width="24">](https://cplusplus.com/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="38">](https://www.python.org/)  | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Vue" width="24">](https://go.dev/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="jQuery" width="24">](https://react.dev/)
